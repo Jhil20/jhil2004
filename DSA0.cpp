@@ -1,3 +1,4 @@
+//ashdiwubhsidwbdu     wd
 #include<bits/stdc++.h>
 using namespace std;
 int binary_search(int arr[],int l,int h,int key);
